@@ -14,15 +14,16 @@
 ### 👩🏻‍💻 About Me
 he/him/his  
 PhD student, [Wong Lab](https://sites.duke.edu/wonglab/), Duke University Marine Lab  
-**research interests:** evolution, marine biology, marine invertebrates, adaptation, plasticity, genomics, AI for science (predictive ML, computer vision, generative AI)  
+**research interests:** evolution, marine invertebrates, adaptation, plasticity, genomics, AI for science (predictive ML, computer vision, generative AI)  
 **outside-of-research interests:** sports, chinese cooking, stargazing, pokemon, scrabble, music  
 
-
-### 🔭 Current Projects
+### 🔭 Current Work
 - genomic selection for Dermo resistance in oysters. **[repo](https://github.com/henrysun9074/gsAI#)** 
 - surfclam genome bioinformatics. **[repo](https://github.com/henrysun9074/surfclam#)**   
-I'm a big proponent of open science and open code and scientific computing. For more information about other projects, contact me! 
 
+I'm a big proponent of open science and open-source code for scientific computing and teaching. For more information about my research or other past projects, contact me! 
+
+---
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=henrysun9074&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile Views](https://komarev.com/ghpvc/?username=henrysun9074&color=blue)
