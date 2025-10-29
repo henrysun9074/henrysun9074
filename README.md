@@ -1,9 +1,9 @@
 ## Hi! I'm Henry! 👋
 
 ![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
-[![Website Badge](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](henrysun.netlify.app)
+[![Website Badge](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://henrysun.netlify.app)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:henry.sun@duke.edu)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/henry-sun-691b5a166/?skipRedirect=true)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/henry-sun-691b5a166/?skipRedirect=true)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=ORCID&logoColor=white)](https://orcid.org/0009-0000-8434-2080)
 [![iNaturalist Badge](https://img.shields.io/badge/-iNaturalist-74AC00?style=flat&logo=inaturalist&logoColor=white)](https://www.inaturalist.org/people/9709454)
 
