@@ -18,7 +18,7 @@ PhD student, [Wong Lab](https://sites.duke.edu/wonglab/), Duke University Marine
 
 ### 🔭 Current Work
 - genomic selection for Dermo resistance in oysters. **[repo](https://github.com/henrysun9074/gsAI#)** 
-- surfclam genome bioinformatics. **[repo](https://github.com/henrysun9074/surfclam#)**     
+- some other population genetics projects -- more TBA   
 
 I'm a big proponent of open science and open-source code for scientific computing and teaching. For more information about my research or other past projects, contact me! 
 
