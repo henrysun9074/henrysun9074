@@ -14,7 +14,7 @@
 
 ### 👩🏻‍💻 About Me
 PhD student, [Wong Lab](https://sites.duke.edu/wonglab/), Duke University Marine Lab  
-**research interests:** evolution, marine invertebrates, adaptation, plasticity, genomics, AI for science (predictive ML, computer vision, generative AI)  
+**research interests:** evolution, comparative genomics, marine invertebrates, phenotypic plasticity, AI for science (predictive ML, computer vision, generative AI)  
 **outside-of-research interests:** sports, chinese cooking, stargazing, pokemon, scrabble, music  
 
 ### 🔭 Current Work
