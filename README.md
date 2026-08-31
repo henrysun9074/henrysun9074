@@ -1,7 +1,7 @@
 ## Hi! I'm Henry! 👋
 
 ![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
-[![Website Badge](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://henrysun.netlify.app)
+[![Website Badge](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://henrysun9074.github.io/)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:henry.sun@duke.edu)
 [![Static Badge](https://img.shields.io/badge/Google%20Scholar-white?logo=googlescholar&logoColor=navy)](https://scholar.google.com/citations?user=wGQalKIAAAAJ&hl=en)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/henry-sun-691b5a166/?skipRedirect=true)
