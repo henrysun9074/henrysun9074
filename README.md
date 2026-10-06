@@ -15,12 +15,13 @@
 
 ### 👩🏻‍💻 About Me
 PhD student, [Wong Lab](https://sites.duke.edu/wonglab/), Duke University Marine Lab  
-**research interests:** evolution, comparative genomics, marine invertebrates, phenotypic plasticity, AI for science (predictive ML, computer vision, generative AI)  
+**research interests:** evolutionary biology, comparative genomics, marine invertebrates, phenotypic plasticity, AI for science (predictive ML, computer vision, generative AI)  
 **outside-of-research interests:** sports, chinese cooking, stargazing, pokemon, scrabble, music  
 
 ### 🔭 Current Work
-- genomic selection for Dermo resistance in oysters. **[repo](https://github.com/henrysun9074/gsAI#)** 
-- some other bioinformatics and comparative genomics projects -- more TBA   
+- genomic selection for dermo resistance in oysters. **[repo](https://github.com/henrysun9074/gsAI#)**
+- analysis of scleractinian coral metabolomes. **[repo](https://github.com/henrysun9074/cotw#)**
+- some other bioinformatics and comparative genomics projects -- more TBA later :) 
 
 I'm a big proponent of open science and open-source code for scientific computing and teaching. For more information about my research or other past projects, contact me! 
 
